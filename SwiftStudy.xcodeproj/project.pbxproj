@@ -25,6 +25,7 @@
 		EB564D5A282E284F0088D7E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB564D5C282E284F0088D7E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EB564D64282E28C30088D7E5 /* stringInterpolation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = stringInterpolation.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EBB9FDC72830CE8A00B7A09D /* let_var.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = let_var.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		EB564D4D282E284E0088D7E5 /* SwiftStudy */ = {
 			isa = PBXGroup;
 			children = (
+				EBB9FDC62830CDAD00B7A09D /* _let_var */,
 				EB564D5C282E284F0088D7E5 /* Info.plist */,
 				EB564D63282E28700088D7E5 /* Stringinterpolation */,
 				EB564D62282E28560088D7E5 /* Base Group */,
@@ -83,6 +85,14 @@
 				EB564D64282E28C30088D7E5 /* stringInterpolation.playground */,
 			);
 			path = Stringinterpolation;
+			sourceTree = "<group>";
+		};
+		EBB9FDC62830CDAD00B7A09D /* _let_var */ = {
+			isa = PBXGroup;
+			children = (
+				EBB9FDC72830CE8A00B7A09D /* let_var.playground */,
+			);
+			path = _let_var;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
