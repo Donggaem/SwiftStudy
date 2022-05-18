@@ -30,6 +30,27 @@
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
+		<key>_collection_types (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>_collection_types (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>_collection_types (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
 		<key>_data_types (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
