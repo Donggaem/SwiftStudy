@@ -27,6 +27,8 @@
 		EB564D5A282E284F0088D7E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB564D5C282E284F0088D7E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EB564D64282E28C30088D7E5 /* stringInterpolation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = stringInterpolation.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EBB75DB42835F72B005DC6EB /* _function_Basic.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _function_Basic.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EBB75DB52835FBB4005DC6EB /* _function_advanced.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _function_advanced.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EBB9FDC72830CE8A00B7A09D /* let_var.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = let_var.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EBB9FDC92830D2EA00B7A09D /* _data_types.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _data_types.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -77,13 +79,14 @@
 		EB564D4D282E284E0088D7E5 /* SwiftStudy */ = {
 			isa = PBXGroup;
 			children = (
-				EB564D5C282E284F0088D7E5 /* Info.plist */,
+				EBB75DB32835F6DA005DC6EB /* _function */,
 				EB436FFD2834C0D1009AC3AE /* _collection_types */,
 				EB436FFB2834BD4C009AC3AE /* _Any_AnyObject_nil */,
 				EBB9FDC82830D2AB00B7A09D /* _data_types */,
 				EBB9FDC62830CDAD00B7A09D /* _let_var */,
 				EB564D63282E28700088D7E5 /* Stringinterpolation */,
 				EB564D62282E28560088D7E5 /* Base Group */,
+				EB564D5C282E284F0088D7E5 /* Info.plist */,
 			);
 			path = SwiftStudy;
 			sourceTree = "<group>";
@@ -107,6 +110,15 @@
 				EB564D64282E28C30088D7E5 /* stringInterpolation.playground */,
 			);
 			path = Stringinterpolation;
+			sourceTree = "<group>";
+		};
+		EBB75DB32835F6DA005DC6EB /* _function */ = {
+			isa = PBXGroup;
+			children = (
+				EBB75DB42835F72B005DC6EB /* _function_Basic.playground */,
+				EBB75DB52835FBB4005DC6EB /* _function_advanced.playground */,
+			);
+			path = _function;
 			sourceTree = "<group>";
 		};
 		EBB9FDC62830CDAD00B7A09D /* _let_var */ = {
