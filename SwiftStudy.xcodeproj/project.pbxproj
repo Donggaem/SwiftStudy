@@ -27,6 +27,8 @@
 		EB564D5A282E284F0088D7E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB564D5C282E284F0088D7E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EB564D64282E28C30088D7E5 /* stringInterpolation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = stringInterpolation.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EBAF12122837D55C00325442 /* _conditional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _conditional.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EBAF12142837D57A00325442 /* _loop.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _loop.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EBB75DB42835F72B005DC6EB /* _function_Basic.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _function_Basic.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EBB75DB52835FBB4005DC6EB /* _function_advanced.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _function_advanced.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EBB9FDC72830CE8A00B7A09D /* let_var.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = let_var.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -79,6 +81,8 @@
 		EB564D4D282E284E0088D7E5 /* SwiftStudy */ = {
 			isa = PBXGroup;
 			children = (
+				EBAF12132837D56300325442 /* _loop */,
+				EBAF12112837D54D00325442 /* _conditional */,
 				EBB75DB32835F6DA005DC6EB /* _function */,
 				EB436FFD2834C0D1009AC3AE /* _collection_types */,
 				EB436FFB2834BD4C009AC3AE /* _Any_AnyObject_nil */,
@@ -110,6 +114,22 @@
 				EB564D64282E28C30088D7E5 /* stringInterpolation.playground */,
 			);
 			path = Stringinterpolation;
+			sourceTree = "<group>";
+		};
+		EBAF12112837D54D00325442 /* _conditional */ = {
+			isa = PBXGroup;
+			children = (
+				EBAF12122837D55C00325442 /* _conditional.playground */,
+			);
+			path = _conditional;
+			sourceTree = "<group>";
+		};
+		EBAF12132837D56300325442 /* _loop */ = {
+			isa = PBXGroup;
+			children = (
+				EBAF12142837D57A00325442 /* _loop.playground */,
+			);
+			path = _loop;
 			sourceTree = "<group>";
 		};
 		EBB75DB32835F6DA005DC6EB /* _function */ = {
