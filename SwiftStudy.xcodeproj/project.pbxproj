@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EB3B6380283D03B70019608C /* _optional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _optional.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB436FFC2834BD85009AC3AE /* _Any_AnyObject_nil.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _Any_AnyObject_nil.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB436FFE2834C143009AC3AE /* _collection_types.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _collection_types.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB564D4B282E284E0088D7E5 /* SwiftStudy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftStudy.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -46,6 +47,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EB3B637F283D036A0019608C /* _optional */ = {
+			isa = PBXGroup;
+			children = (
+				EB3B6380283D03B70019608C /* _optional.playground */,
+			);
+			path = _optional;
+			sourceTree = "<group>";
+		};
 		EB436FFB2834BD4C009AC3AE /* _Any_AnyObject_nil */ = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +90,7 @@
 		EB564D4D282E284E0088D7E5 /* SwiftStudy */ = {
 			isa = PBXGroup;
 			children = (
+				EB3B637F283D036A0019608C /* _optional */,
 				EBAF12132837D56300325442 /* _loop */,
 				EBAF12112837D54D00325442 /* _conditional */,
 				EBB75DB32835F6DA005DC6EB /* _function */,
