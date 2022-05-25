@@ -24,6 +24,7 @@ struct Sample {
         print("type method")
     }
 }
+
 //MARK: 구조체 사용
 
 //가변 인스턴스
