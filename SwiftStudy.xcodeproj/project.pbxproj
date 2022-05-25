@@ -28,6 +28,7 @@
 		EB564D5A282E284F0088D7E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB564D5C282E284F0088D7E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EB564D64282E28C30088D7E5 /* stringInterpolation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = stringInterpolation.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EB725F7A283DCAFA008DFA19 /* _struct.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _struct.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EBAF12122837D55C00325442 /* _conditional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _conditional.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EBAF12142837D57A00325442 /* _loop.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _loop.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EBB75DB42835F72B005DC6EB /* _function_Basic.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _function_Basic.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -90,6 +91,7 @@
 		EB564D4D282E284E0088D7E5 /* SwiftStudy */ = {
 			isa = PBXGroup;
 			children = (
+				EB725F79283DCADF008DFA19 /* _struct */,
 				EB3B637F283D036A0019608C /* _optional */,
 				EBAF12132837D56300325442 /* _loop */,
 				EBAF12112837D54D00325442 /* _conditional */,
@@ -124,6 +126,14 @@
 				EB564D64282E28C30088D7E5 /* stringInterpolation.playground */,
 			);
 			path = Stringinterpolation;
+			sourceTree = "<group>";
+		};
+		EB725F79283DCADF008DFA19 /* _struct */ = {
+			isa = PBXGroup;
+			children = (
+				EB725F7A283DCAFA008DFA19 /* _struct.playground */,
+			);
+			path = _struct;
 			sourceTree = "<group>";
 		};
 		EBAF12112837D54D00325442 /* _conditional */ = {
