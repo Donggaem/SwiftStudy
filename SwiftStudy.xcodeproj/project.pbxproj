@@ -38,6 +38,7 @@
 		EBB75DB52835FBB4005DC6EB /* _function_advanced.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _function_advanced.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EBB9FDC72830CE8A00B7A09D /* let_var.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = let_var.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EBB9FDC92830D2EA00B7A09D /* _data_types.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _data_types.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EBED690E2841F9AE005EF1AC /* _closure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _closure.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +95,7 @@
 		EB564D4D282E284E0088D7E5 /* SwiftStudy */ = {
 			isa = PBXGroup;
 			children = (
+				EBED690D2841F976005EF1AC /* _closure */,
 				EB8ACD65284118B1000EB2BE /* _value_reference */,
 				EB8ACD6328410EF6000EB2BE /* _enum */,
 				EB725F7B283DD124008DFA19 /* _class */,
@@ -205,6 +207,14 @@
 				EBB9FDC92830D2EA00B7A09D /* _data_types.playground */,
 			);
 			path = _data_types;
+			sourceTree = "<group>";
+		};
+		EBED690D2841F976005EF1AC /* _closure */ = {
+			isa = PBXGroup;
+			children = (
+				EBED690E2841F9AE005EF1AC /* _closure.playground */,
+			);
+			path = _closure;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
