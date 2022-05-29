@@ -28,6 +28,7 @@
 		EB564D5A282E284F0088D7E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB564D5C282E284F0088D7E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EB564D64282E28C30088D7E5 /* stringInterpolation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = stringInterpolation.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EB59F2BF28431E06001D5AC7 /* _property.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _property.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB725F7A283DCAFA008DFA19 /* _struct.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _struct.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB725F7C283DD137008DFA19 /* _class.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _class.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB8ACD6428410F0F000EB2BE /* _enum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _enum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -96,6 +97,7 @@
 		EB564D4D282E284E0088D7E5 /* SwiftStudy */ = {
 			isa = PBXGroup;
 			children = (
+				EB59F2BE28431DEE001D5AC7 /* _property */,
 				EBED690F2841FDB0005EF1AC /* _advanced_closure */,
 				EBED690D2841F976005EF1AC /* _closure */,
 				EB8ACD65284118B1000EB2BE /* _value_reference */,
@@ -136,6 +138,14 @@
 				EB564D64282E28C30088D7E5 /* stringInterpolation.playground */,
 			);
 			path = Stringinterpolation;
+			sourceTree = "<group>";
+		};
+		EB59F2BE28431DEE001D5AC7 /* _property */ = {
+			isa = PBXGroup;
+			children = (
+				EB59F2BF28431E06001D5AC7 /* _property.playground */,
+			);
+			path = _property;
 			sourceTree = "<group>";
 		};
 		EB725F79283DCADF008DFA19 /* _struct */ = {
