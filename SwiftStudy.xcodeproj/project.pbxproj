@@ -31,6 +31,7 @@
 		EB59F2BF28431E06001D5AC7 /* _property.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _property.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB59F2C128432612001D5AC7 /* _property_observer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _property_observer.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB5C60832844BBC000F968B9 /* _inheritance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _inheritance.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EB5C60852844D17300F968B9 /* _init_deinit.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _init_deinit.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB725F7A283DCAFA008DFA19 /* _struct.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _struct.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB725F7C283DD137008DFA19 /* _class.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _class.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB8ACD6428410F0F000EB2BE /* _enum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _enum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -99,6 +100,7 @@
 		EB564D4D282E284E0088D7E5 /* SwiftStudy */ = {
 			isa = PBXGroup;
 			children = (
+				EB5C60842844D15100F968B9 /* _init_deinit */,
 				EB5C60822844BB9B00F968B9 /* _inheritance */,
 				EB59F2C0284325DD001D5AC7 /* _property_observer */,
 				EB59F2BE28431DEE001D5AC7 /* _property */,
@@ -166,6 +168,14 @@
 				EB5C60832844BBC000F968B9 /* _inheritance.playground */,
 			);
 			path = _inheritance;
+			sourceTree = "<group>";
+		};
+		EB5C60842844D15100F968B9 /* _init_deinit */ = {
+			isa = PBXGroup;
+			children = (
+				EB5C60852844D17300F968B9 /* _init_deinit.playground */,
+			);
+			path = _init_deinit;
 			sourceTree = "<group>";
 		};
 		EB725F79283DCADF008DFA19 /* _struct */ = {
