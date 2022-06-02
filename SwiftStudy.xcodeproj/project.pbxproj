@@ -42,6 +42,7 @@
 		EBB75DB52835FBB4005DC6EB /* _function_advanced.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _function_advanced.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EBB9FDC72830CE8A00B7A09D /* let_var.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = let_var.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EBB9FDC92830D2EA00B7A09D /* _data_types.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _data_types.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EBBE46422848B454008144D8 /* _optional_chaining.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _optional_chaining.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EBED690E2841F9AE005EF1AC /* _closure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _closure.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EBED69102841FDE6005EF1AC /* _advanced_closure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _advanced_closure.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -100,6 +101,7 @@
 		EB564D4D282E284E0088D7E5 /* SwiftStudy */ = {
 			isa = PBXGroup;
 			children = (
+				EBBE46412848B415008144D8 /* _optional_chaining */,
 				EB5C60842844D15100F968B9 /* _init_deinit */,
 				EB5C60822844BB9B00F968B9 /* _inheritance */,
 				EB59F2C0284325DD001D5AC7 /* _property_observer */,
@@ -249,6 +251,14 @@
 				EBB9FDC92830D2EA00B7A09D /* _data_types.playground */,
 			);
 			path = _data_types;
+			sourceTree = "<group>";
+		};
+		EBBE46412848B415008144D8 /* _optional_chaining */ = {
+			isa = PBXGroup;
+			children = (
+				EBBE46422848B454008144D8 /* _optional_chaining.playground */,
+			);
+			path = _optional_chaining;
 			sourceTree = "<group>";
 		};
 		EBED690D2841F976005EF1AC /* _closure */ = {
