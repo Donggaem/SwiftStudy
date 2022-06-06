@@ -17,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		EB269251284A333C008638DB /* _type_casting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _type_casting.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EB380344284DD3A600EB3511 /* _assert_guard.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _assert_guard.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB3B6380283D03B70019608C /* _optional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _optional.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB436FFC2834BD85009AC3AE /* _Any_AnyObject_nil.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _Any_AnyObject_nil.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB436FFE2834C143009AC3AE /* _collection_types.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _collection_types.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -67,6 +68,14 @@
 			path = _type_casting;
 			sourceTree = "<group>";
 		};
+		EB380343284DD37D00EB3511 /* _assert_guard */ = {
+			isa = PBXGroup;
+			children = (
+				EB380344284DD3A600EB3511 /* _assert_guard.playground */,
+			);
+			path = _assert_guard;
+			sourceTree = "<group>";
+		};
 		EB3B637F283D036A0019608C /* _optional */ = {
 			isa = PBXGroup;
 			children = (
@@ -110,6 +119,7 @@
 		EB564D4D282E284E0088D7E5 /* SwiftStudy */ = {
 			isa = PBXGroup;
 			children = (
+				EB380343284DD37D00EB3511 /* _assert_guard */,
 				EB269250284A3315008638DB /* _type_casting */,
 				EBBE46412848B415008144D8 /* _optional_chaining */,
 				EB5C60842844D15100F968B9 /* _init_deinit */,
