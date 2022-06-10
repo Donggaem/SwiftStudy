@@ -35,6 +35,7 @@
 		EB5C60832844BBC000F968B9 /* _inheritance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _inheritance.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB5C60852844D17300F968B9 /* _init_deinit.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _init_deinit.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB6B7FF42850890A002C4163 /* _extension.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _extension.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EB6D26AD2853482700EFD7B7 /* _error_handling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _error_handling.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB6D8AC8284F614900023ED9 /* _protocol.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _protocol.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB725F7A283DCAFA008DFA19 /* _struct.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _struct.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB725F7C283DD137008DFA19 /* _class.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _class.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -121,6 +122,7 @@
 		EB564D4D282E284E0088D7E5 /* SwiftStudy */ = {
 			isa = PBXGroup;
 			children = (
+				EB6D26AC2853480500EFD7B7 /* _error_handling */,
 				EB6B7FF3285088EC002C4163 /* _extension */,
 				EB6D8AC7284F610400023ED9 /* _protocol */,
 				EB380343284DD37D00EB3511 /* _assert_guard */,
@@ -210,6 +212,14 @@
 				EB6B7FF42850890A002C4163 /* _extension.playground */,
 			);
 			path = _extension;
+			sourceTree = "<group>";
+		};
+		EB6D26AC2853480500EFD7B7 /* _error_handling */ = {
+			isa = PBXGroup;
+			children = (
+				EB6D26AD2853482700EFD7B7 /* _error_handling.playground */,
+			);
+			path = _error_handling;
 			sourceTree = "<group>";
 		};
 		EB6D8AC7284F610400023ED9 /* _protocol */ = {
