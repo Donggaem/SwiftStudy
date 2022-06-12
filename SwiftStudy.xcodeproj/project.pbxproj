@@ -41,6 +41,7 @@
 		EB725F7C283DD137008DFA19 /* _class.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _class.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB8ACD6428410F0F000EB2BE /* _enum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _enum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EB8ACD67284118E7000EB2BE /* _value_reference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _value_reference.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EB94D5A52856163E001D03F5 /* _higher_order_function.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _higher_order_function.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EBAF12122837D55C00325442 /* _conditional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _conditional.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EBAF12142837D57A00325442 /* _loop.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _loop.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EBB75DB42835F72B005DC6EB /* _function_Basic.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = _function_Basic.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -122,6 +123,7 @@
 		EB564D4D282E284E0088D7E5 /* SwiftStudy */ = {
 			isa = PBXGroup;
 			children = (
+				EB94D5A428561610001D03F5 /* _higher_order_function */,
 				EB6D26AC2853480500EFD7B7 /* _error_handling */,
 				EB6B7FF3285088EC002C4163 /* _extension */,
 				EB6D8AC7284F610400023ED9 /* _protocol */,
@@ -260,6 +262,14 @@
 				EB8ACD67284118E7000EB2BE /* _value_reference.playground */,
 			);
 			path = _value_reference;
+			sourceTree = "<group>";
+		};
+		EB94D5A428561610001D03F5 /* _higher_order_function */ = {
+			isa = PBXGroup;
+			children = (
+				EB94D5A52856163E001D03F5 /* _higher_order_function.playground */,
+			);
+			path = _higher_order_function;
 			sourceTree = "<group>";
 		};
 		EBAF12112837D54D00325442 /* _conditional */ = {
