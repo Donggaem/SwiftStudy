@@ -65,8 +65,8 @@ extension Int {
         return self * n
     }
 }
-print(3.multiply(by: 2))
-print(4.multiply(by: 5))
+print(3.multiply(by: 2)) // 6
+print(4.multiply(by: 5)) // 20
 
 numder = 3
 print(numder.multiply(by: 2))
